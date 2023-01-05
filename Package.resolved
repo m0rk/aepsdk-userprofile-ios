@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AEPCore",
+        "repositoryURL": "https://github.com/m0rk/aepsdk-core-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "1e7acf07c585dc1e4f54693729967e34a62e7735",
+          "version": "3.7.3"
+        }
+      },
+      {
+        "package": "AEPRulesEngine",
+        "repositoryURL": "https://github.com/adobe/aepsdk-rulesengine-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "5907e2ed364135448a2a5d77a76c2ff971396397",
+          "version": "1.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
